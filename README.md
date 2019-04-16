@@ -41,6 +41,7 @@ To register an app:
  4. Confirm that the status of the API key is Approved.
  
 <b>APIs</b>
+
 The [APIs](https://developer.nytimes.com/apis) page has information on the different APIs. The documentation for each API includes an interactive reference for trying out the API.
 
 ## Developed
